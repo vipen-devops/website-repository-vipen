@@ -1,0 +1,57 @@
+_Enhanced Automation Platform (EAP) – Thomson Reuters_
+
+Client:- Thomson Reuters
+Location:- Bangalore
+_Project Overview_
+The Enhanced Automation Platform (EAP) is a strategic initiative by Thomson Reuters aimed at automating and accelerating the publication of key financial entities such as GDP, Inflation, CPI, PPI, and other economic indicators. This automation significantly enhances editorial efficiency, ensuring timely and accurate delivery of critical financial data to customers, including law firms, legal institutions, financial analysts, and businesses.
+
+Beyond financial data, Thomson Reuters also publishes research and expert insights in sectors like intellectual property, law, pharmaceuticals, life sciences, and tax & accounting. The EAP project is designed to optimize and streamline these content publication processes using LLM-powered automation and data-driven enhancements.
+
+_Key Objectives_
+	•	Automate the publication process for financial and research content to reduce manual effort and errors.
+	•	Improve data accuracy and consistency by leveraging LLM integration as a fallback mechanism for regex-based logic.
+	•	Enhance editorial efficiency by minimizing delays caused by source format changes, keyword variations, or validation failures.
+	•	Streamline stakeholder collaboration by providing seamless data mapping and validation workflows.
+	•	Ensure compliance and quality assurance in publishing expert insights across multiple industries.
+
+_My Role & Responsibilities_
+As a Business Analyst, my key contributions include:
+
+• Requirement Gathering & Documentation – Collaborating with stakeholders, including editorial teams, solution architects, and data engineers, to define business requirements.
+• Data Analysis & Mapping – Understanding data sources, identifying inconsistencies, and ensuring smooth integration into the automation pipeline.
+• LLM Integration Strategy – Assisting in designing and implementing LLM-based fallback logic to handle cases where regex-based automation fails.
+• Stakeholder Management – Engaging with business teams, developers, and data scientists to ensure project alignment and timely delivery.
+• Process Optimization & Reporting – Identifying process inefficiencies and working on data visualization and reporting to track automation success metrics.
+• UAT & Validation – Supporting user acceptance testing, ensuring that automated processes align with editorial needs and business expectations.
+
+_Key Technologies & Tools Used_
+
+	•	Business Analysis Tools – Jira, Confluence, Azure DevOps
+	•	Data Analysis & Mapping – SQL, Power BI, Excel
+	•	Automation & LLM Integration – OpenAI API, Python (for LLM implementation), Regex
+	•	Cloud & Deployment – Azure Cloud Fundamentals
+
+_Challenges & Solutions_
+
+1. Source Format & Keyword Changes
+	•	Challenge: Frequent changes in financial report formats caused regex-based automation to fail.
+	•	Solution: Implemented an LLM-based fallback mechanism, allowing the system to intelligently extract GDP and other financial indicators even when formats changed.
+
+2. Editorial Bottlenecks
+	•	Challenge: Manual intervention was required at multiple stages, delaying publication.
+	•	Solution: Introduced automated workflows to validate, clean, and publish data efficiently, reducing editorial workload.
+
+3. Data Accuracy & Compliance
+	•	Challenge: Ensuring published content met regulatory and compliance standards across different domains.
+	•	Solution: Integrated data validation and anomaly detection mechanisms to flag inconsistencies before publication.
+
+_Business Impact_
+
+✅ 50% reduction in publication time for financial and legal content.
+✅ Increased accuracy & reliability of automated data extraction.
+✅ Enhanced stakeholder collaboration, leading to improved editorial efficiency.
+✅ Seamless integration of LLM & automation, reducing manual intervention.
+
+_Conclusion_
+
+The Enhanced Automation Platform (EAP) has transformed the way Thomson Reuters publishes financial and legal content. By leveraging LLM-driven automation, data mapping, and advanced stakeholder collaboration, the project has successfully streamlined editorial workflows, ensuring faster, more reliable, and compliant content delivery to customers worldwide.
